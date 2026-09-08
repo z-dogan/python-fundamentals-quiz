@@ -18,6 +18,6 @@ A terminal-based interactive study and self-assessment tool built in Python. Des
 1. Ensure Python 3 is installed.
 2. Clone or download the repository:
    ```bash
-git clone https://github.com/z-dogan/python-fundamentals-quiz.git
-cd python-fundamentals-quiz
-python quiz.py
+   git clone https://github.com/z-dogan/python-fundamentals-quiz.git
+   cd python-fundamentals-quiz
+   python quiz.py
